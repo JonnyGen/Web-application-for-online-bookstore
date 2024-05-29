@@ -1,0 +1,107 @@
+
+.math
+
+{
+float: left;
+  width: 25%;
+  padding: 10px;
+  height: 250px;
+border: 5px outset blue;
+  background-color: lightblue;
+  text-align: center;
+
+font-size: 14pt;
+p
+{
+    font-size: 12pt;
+    font-family: sans-serif;
+}
+}
+#english
+{
+float: left;
+  width: 25%;
+  padding: 10px;
+  height: 250px;
+border: 5px outset blue;
+  background-color: lightblue;
+  text-align: center;
+
+font-size: 14pt;
+p
+{
+    font-size: 12pt;
+    font-family: sans-serif;
+}
+
+}
+
+.science
+
+{
+float: left;
+  width:25%;
+  padding: 10px;
+  height: 250px;
+border: 5px outset blue;
+  background-color: lightblue;
+  text-align: center;
+
+font-size: 14pt;
+p
+{
+    font-size: 12pt;
+    font-family: sans-serif;
+}
+}
+
+.history
+
+{
+float: left;
+  width: 25%;
+  padding: 10px;
+  height: 250px;
+border: 5px outset blue;
+  background-color: lightblue;
+  text-align: center;
+
+font-size: 14pt;
+p
+{
+    font-size: 12pt;
+    font-family: sans-serif;
+}
+}
+
+.gym
+
+{
+float: left;
+  width: 25%;
+  padding: 10px;
+  height: 250px;
+border: 5px outset blue;
+  background-color: lightblue;
+  text-align: center;
+
+font-size: 14pt;
+
+p
+{
+    font-size: 12pt;
+    font-family: sans-serif;
+}
+}
+
+.booksection
+{
+
+}
+body
+{
+
+
+}
+
+
